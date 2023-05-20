@@ -67,14 +67,14 @@ Hello there! 👋<br>Welcome to my humble GitHub profile. I am a young developer
 <center>
     <picture>
         <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=KevinFlores26&theme=dark&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&card_width=510px" 
+            srcset="https://github-readme-stats.vercel.app/api?username=KevinFlores26&theme=dark&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&card_width=330px" 
             media="(prefers-color-scheme: dark)"
         />
         <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=KevinFlores26&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true" 
+            srcset="https://github-readme-stats.vercel.app/api?username=KevinFlores26&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&card_width=330px" 
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=KevinFlores26&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=KevinFlores26&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&card_width=330px">
     </picture>
     <picture>
         <source 
