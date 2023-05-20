@@ -9,8 +9,6 @@ Hello there! 👋<br>Welcome to my humble GitHub profile. I am a young developer
 
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/kevin-brian-f-091775265/)
 
-<br>
-
 # 💻 Tech Stack:
 
 ## 📝 Languages
