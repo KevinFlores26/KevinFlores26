@@ -65,25 +65,25 @@ Hello there! 👋<br>Welcome to my humble GitHub profile. I am a young developer
 <center>
     <picture>
         <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=KevinFlores26&theme=dark&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&card_width=330px" 
+            srcset="https://github-readme-stats.vercel.app/api?username=KevinFlores26&theme=dark&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&card_width=500px&bg_color=00000000" 
             media="(prefers-color-scheme: dark)"
         />
         <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=KevinFlores26&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&card_width=330px" 
+            srcset="https://github-readme-stats.vercel.app/api?username=KevinFlores26&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&card_width=500px&bg_color=00000000" 
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=KevinFlores26&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&card_width=330px">
+        <img src="https://github-readme-stats.vercel.app/api?username=KevinFlores26&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&card_width=500px&bg_color=00000000">
     </picture>
-    <picture>
+    <picture><br>
         <source 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=KevinFlores26&theme=dark&hide_border=true" 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=KevinFlores26&theme=transparent&hide_border=true" 
             media="(prefers-color-scheme: dark)"
         />
         <source 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=KevinFlores26&hide_border=true" 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=KevinFlores26&theme=transparent&hide_border=true" 
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinFlores26&hide_border=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinFlores26&theme=transparent&hide_border=true">
     </picture><br>
     <picture>
         <source 
